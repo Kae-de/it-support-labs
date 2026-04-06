@@ -1,4 +1,4 @@
-Title: Resolving User Login & Access Issues (Account Troubleshooting)
+# Resolving User Login & Access Issues (Account Troubleshooting)
 
 Scenario:
 A user is unable to log into their account due to repeated password failures and potential lockout.
