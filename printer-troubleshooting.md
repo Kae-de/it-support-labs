@@ -2,6 +2,7 @@
 
 ## A user is unable to print to a shared office printer. The printer appears offline, and print jobs are stuck in the queue.
 
+## 🧪 IT Support Lab
 Objective:
 Diagnose and resolve printer connectivity and queue issues in a Windows environment.
 
