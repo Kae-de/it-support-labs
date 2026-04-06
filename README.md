@@ -1,38 +1,47 @@
-# it-support-labs
-Hands-on IT support labs demonstrating troubleshooting, system administration, networking, and cloud support in real-world scenarios.
+# IT Support Lab Portfolio
 
-Actively building hands-on IT support skills and documenting real-world scenarios.
+This repository contains hands-on IT support labs that simulate real-world technical support scenarios. Each lab demonstrates practical troubleshooting, system support, and diagnostic skills aligned with help desk and IT support roles.
 
-IT Support Lab Portfolio:
+---
 
-This repository contains hands-on IT support labs designed to simulate real-world technical scenarios commonly encountered in help desk and IT support roles.
-These labs demonstrate practical skills in troubleshooting, system support, networking, and cloud-based environments.
+## 🛠 Skills Demonstrated
 
-Skills Demonstrated:
-IT Troubleshooting (hardware, software, connectivity)
-User Account & Access Support
-Google Workspace & Cloud Tools
-Network Diagnostics (IP, DNS, connectivity)
-System Performance Optimization
-Device & Printer Setup
+- Troubleshooting hardware, software, and connectivity issues  
+- User account access support and password recovery  
+- Cloud user setup and permissions (Google Workspace)  
+- Network diagnostics using command-line tools  
+- System performance analysis and optimization  
+- Device & peripheral (printer) setup
 
-Lab Projects:
-Printer Troubleshooting:
-Diagnosed and resolved network printer connectivity issues, including clearing print queues, restarting services, and reinstalling drivers.
-User Account Access Issue:
-Resolved login and account lockout issues by resetting credentials and restoring user access.
-Cloud User Setup (Google Workspace):
-Simulated user onboarding, including account creation, permissions, and access to shared resources.
-Network Troubleshooting:
-Used command-line tools (ipconfig, ping, tracert) to diagnose and restore network connectivity.
-System Performance Optimization:
-Improved system speed by identifying resource-heavy processes and optimizing startup programs.
+---
 
-Purpose:
-These labs were created to:
-Strengthen real-world IT support skills
-Document troubleshooting processes
-Build a practical portfolio for IT roles
+## 🧪 Lab Projects
 
-About Me:
-I’m an IT-focused professional with hands-on experience providing on-site technical support during a company-wide system migration. I’m currently building my skills in IT support, cloud systems, and troubleshooting while pursuing opportunities in help desk and technical support roles.
+### 🖨 Printer Troubleshooting
+Diagnosed and resolved network printer connectivity issues, including queue clearing, driver reinstallation, and network resets.
+
+### 🔐 User Access Issues
+Simulated account lockouts, credential resets, and access restoration.
+
+### ☁️ Cloud User Setup (Google Workspace)
+Onboarded users in a cloud environment, configured permissions, and set up shared resources.
+
+### 🌐 Network Troubleshooting
+Used tools such as `ping`, `ipconfig`, and `tracert` to diagnose and resolve connectivity issues.
+
+### 🖥 System Performance Optimization
+Identified resource-heavy processes and improved system responsiveness.
+
+---
+
+## 🎯 Purpose
+
+These labs were created to showcase practical IT support skills and document troubleshooting workflows. They demonstrate readiness for help desk, IT support, and technical support roles.
+
+---
+
+## 🚀 About Me
+
+IT-focused professional with hands-on experience providing on-site technical support during a company-wide system migration. I’m building technical skills in troubleshooting, cloud systems, and user support while pursuing industry certifications and preparing for IT support roles.
+
+---
