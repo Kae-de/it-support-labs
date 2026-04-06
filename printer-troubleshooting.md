@@ -1,7 +1,6 @@
 # Troubleshooting Network Printer Connectivity (Windows Environment)
 
-Scenario
-A user is unable to print to a shared office printer. The printer appears offline, and print jobs are stuck in the queue.
+## A user is unable to print to a shared office printer. The printer appears offline, and print jobs are stuck in the queue.
 
 Objective:
 Diagnose and resolve printer connectivity and queue issues in a Windows environment.
