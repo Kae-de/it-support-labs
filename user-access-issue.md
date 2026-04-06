@@ -1,7 +1,6 @@
 # Resolving User Login & Access Issues (Account Troubleshooting)
 
-Scenario:
-A user is unable to log into their account due to repeated password failures and potential lockout.
+## A user is unable to log into their account due to repeated password failures and potential lockout.
 
 Objective:
 Restore account access and ensure proper authentication functionality.
