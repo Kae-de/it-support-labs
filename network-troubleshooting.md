@@ -1,4 +1,4 @@
-Title: User Setup & Support in Cloud Environment (Google Workspace)
+# User Setup & Support in Cloud Environment (Google Workspace)
 
 Scenario:
 A new employee requires account setup and access to company tools.
