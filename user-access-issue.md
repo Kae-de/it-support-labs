@@ -2,6 +2,7 @@
 
 ## A user is unable to log into their account due to repeated password failures and potential lockout.
 
+## 🧪 IT Support Lab
 Objective:
 Restore account access and ensure proper authentication functionality.
 
