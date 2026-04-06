@@ -1,4 +1,4 @@
-Title: Diagnosing Network Connectivity Issues Using Command Line Tools
+# Diagnosing Network Connectivity Issues Using Command Line Tools
 
 Scenario:
 A user reports no internet access despite being connected to Wi-Fi.
