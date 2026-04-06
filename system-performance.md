@@ -1,7 +1,6 @@
 # Diagnosing Network Connectivity Issues Using Command Line Tools
 
-Scenario:
-A user reports no internet access despite being connected to Wi-Fi.
+## A user reports no internet access despite being connected to Wi-Fi.
 
 Objective:
 Identify and resolve network connectivity issues.
