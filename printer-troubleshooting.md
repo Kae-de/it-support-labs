@@ -3,16 +3,17 @@
 ## A user is unable to print to a shared office printer. The printer appears offline, and print jobs are stuck in the queue.
 
 ## 🧪 IT Support Lab
-Objective:
+
+## Objective
 Diagnose and resolve printer connectivity and queue issues in a Windows environment.
 
-Tools Used:
+## Tools Used
 Windows Settings
 Control Panel
 Device Manager
 Services (Print Spooler)
 
-Steps Taken:
+## Steps Taken
 Verified printer status in Devices & Printers
 Checked network connectivity (confirmed user was online)
 Cleared stuck print jobs from queue
@@ -20,10 +21,10 @@ Restarted Print Spooler service
 Removed and reinstalled printer drivers
 Reconnected printer via network path
 
-Resolution:
+## Resolution
 Printer connectivity was restored and the user successfully resumed printing.
 
-Key Takeaways:
+## Key Takeaways
 Print spooler issues are a common root cause of printing failures
 Driver conflicts can prevent successful communication with printers
 Restarting services is often a quick and effective fix
