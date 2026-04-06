@@ -2,6 +2,7 @@
 
 ## A new employee requires account setup and access to company tools.
 
+## 🧪 IT Support Lab
 Objective:
 Simulate onboarding and ensure proper access to cloud-based systems.
 
