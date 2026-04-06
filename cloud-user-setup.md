@@ -2,6 +2,7 @@
 
 ## Users report that their computer is running extremely slow.
 
+## 🧪 IT Support Lab
 Objective:
 Diagnose and improve system performance.
 
