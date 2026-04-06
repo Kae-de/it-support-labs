@@ -2,6 +2,7 @@
 
 ## A user reports no internet access despite being connected to Wi-Fi.
 
+## 🧪 IT Support Lab
 Objective:
 Identify and resolve network connectivity issues.
 
