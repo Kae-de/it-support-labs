@@ -1,7 +1,6 @@
 # Improving Slow Computer Performance (Windows)
 
-Scenario:
-Users report that their computer is running extremely slow.
+## Users report that their computer is running extremely slow.
 
 Objective:
 Diagnose and improve system performance.
