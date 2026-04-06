@@ -1,4 +1,4 @@
-Title: Improving Slow Computer Performance (Windows)
+# Improving Slow Computer Performance (Windows)
 
 Scenario:
 Users report that their computer is running extremely slow.
