@@ -1,7 +1,6 @@
 # User Setup & Support in Cloud Environment (Google Workspace)
 
-Scenario:
-A new employee requires account setup and access to company tools.
+## A new employee requires account setup and access to company tools.
 
 Objective:
 Simulate onboarding and ensure proper access to cloud-based systems.
