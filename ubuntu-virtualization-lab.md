@@ -27,3 +27,5 @@ Successfully transitioned from a minimal server installation to a full graphical
 * Building from "server-minimal" reduces system bloat and improves performance.
 * Mastering CLI package installation is faster and more reliable than GUI-based installers.
 * Understanding Linux architecture (kernel, shell, GUI) is essential for efficient system administration.
+
+<img width="1297" height="741" alt="image" src="https://github.com/user-attachments/assets/da2b4f7c-02d5-4009-907c-99be9bd8315f" />
