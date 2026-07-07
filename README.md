@@ -12,6 +12,10 @@ This repository contains hands-on IT support labs that simulate real-world techn
 - Network diagnostics using command-line tools  
 - System performance analysis and optimization  
 - Device & peripheral (printer) setup
+- OS: Windows 10/11, Ubuntu Linux, macOS
+- Cloud: Google Workspace Administration
+- Networking: TCP/IP, DNS, DHCP, command-line utilities (ping, ipconfig, traceroute)
+- Virtualization: VMware Fusion
 
 ---
 
