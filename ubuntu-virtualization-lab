@@ -1,0 +1,29 @@
+# Ubuntu Virtualization Lab
+
+## Project Overview
+This lab demonstrates the installation of an **Ubuntu Desktop** environment on a **[Name of your Hypervisor, e.g., VirtualBox/VMware/Hyper-V]** platform. The process involved configuring a virtualized environment, booting from a server ISO, and deploying a functional desktop environment.
+
+## Goal
+To build a stable, modular Linux environment for learning system administration, cybersecurity labs, and software development.
+
+## Setup Requirements
+* **Hypervisor:** [e.g., VirtualBox 7.x]
+* **OS:** Ubuntu [e.g., 24.04 LTS]
+* **Allocated Resources:** * RAM: [e.g., 4GB]
+  * CPU: [e.g., 2 Cores]
+  * Storage: [e.g., 40GB VDI]
+
+## Installation Steps
+1. **Hypervisor Configuration:** Created a new virtual machine instance with recommended settings for a 64-bit Linux environment.
+2. **ISO Deployment:** Mounted the Ubuntu Server ISO to initiate the installer.
+3. **Desktop Environment:** Executed the installation of the desktop GUI package (`ubuntu-desktop`) from the command line to optimize the installation.
+4. **Post-Installation:** Performed system updates and configured guest additions for better performance.
+
+## Learnings
+* Understanding the difference between server-minimal and desktop environments.
+* Managing virtualized resources (RAM/Disk/CPU).
+* Troubleshooting boot sequences and guest interface drivers.
+
+## Future Plans
+* Configure a shared folder between Host and Guest.
+* Implement SSH access for remote management.
